@@ -38,4 +38,6 @@ name4--;
 
 console.log(name, name4)
 
-const a = 0;
+const a = 0; 
+const b = 3;
+
